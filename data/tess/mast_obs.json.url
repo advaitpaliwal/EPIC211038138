@@ -1,0 +1,1 @@
+https://mast.stsci.edu/api/v0/invoke POST request={"service":"Mast.Caom.Filtered.Position","format":"json","params":{"columns":"obs_collection,provenance_name,sequence_number,t_exptime,target_name,dataproduct_type","filters":[{"paramName":"obs_collection","values":["TESS","HLSP"]}],"position":"60.27416, 23.57896, 0.002"}}

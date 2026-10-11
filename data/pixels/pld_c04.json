@@ -1,0 +1,37 @@
+{
+ "tpf": "lc/mastDownload/K2/ktwo211038138-c04_lc/ktwo211038138-c04_lpd-targ.fits.gz",
+ "n_cad": 3282,
+ "depth_ap_ppm": -8138.890667497466,
+ "depth_ap_err_ppm": 3367.168208678353,
+ "psf_scale_depth_ppm": -7401.681354545196,
+ "psf_scale_err_ppm": 1947.8624416545683,
+ "chi2_psf": 10.289199128786429,
+ "chi2_null": 24.728434700712956,
+ "dof": 25,
+ "best_shift_pix": [
+  1.7763568394002505e-15,
+  1.7763568394002505e-15
+ ],
+ "shift_1sig_range_x": [
+  1.7763568394002505e-15,
+  0.10000000000000187
+ ],
+ "shift_1sig_range_y": [
+  1.7763568394002505e-15,
+  0.10000000000000187
+ ],
+ "best_shift_arcsec": 9.99834877689828e-15,
+ "max_pixel_sn": 0.8022717737192355,
+ "argmax_sn_colrow": [
+  3,
+  7
+ ],
+ "target_colrow": [
+  4.667864814997003,
+  4.8483158008452145
+ ],
+ "brightest_colrow": [
+  5,
+  5
+ ]
+}

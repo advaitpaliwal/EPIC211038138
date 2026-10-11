@@ -1,0 +1,7 @@
+SearchResult containing 2 data products.
+
+ #     mission     year author exptime target_name distance
+                                  s                 arcsec 
+--- -------------- ---- ------ ------- ----------- --------
+  0 TESS Sector 70 2023   SPOC     120    14255552      0.0
+  1 TESS Sector 71 2023   SPOC     120    14255552      0.0

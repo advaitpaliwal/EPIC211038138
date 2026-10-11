@@ -1,0 +1,40 @@
+C.D.S.  -  SIMBAD4 rel 1.8  -  2026.10.12CEST00:10:17
+
+Gaia DR3 65884081064415616
+--------------------------
+
+Object DANCe J04010581+2334439  ---  PM*  ---  OID=@8377125   (@@-1,255)  ---  coobox=4326
+
+Coordinates(ICRS,ep=J2000,eq=2000): 04 01 05.7991066104  +23 34 44.268059676 (Opt ) A [0.0589 0.0306 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 58 06.8109587548  +23 26 24.100289004
+Coordinates(Gal,ep=J2000,eq=2000): 169.5015749694543  -21.6886586787798
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 27.726 -48.208 [0.069 0.038 90] A 2020yCat.1350....0G
+Parallax: 8.2931 [0.0613] A 2020yCat.1350....0G
+Radial Velocity: ~ [~ ~ ] ~ ~                  
+Redshift: ~ [~ ~ ] ~ ~                  
+cz: ~ [~ ~ ] ~ ~                  
+Flux G : 16.097818 [0.002828] C 2020yCat.1350....0G
+Flux J : 13.116 [0.002] D 2012MNRAS.422.1495L
+Flux H : 12.586 [0.002] D 2012MNRAS.422.1495L
+Flux K : 12.289 [0.001] D 2012MNRAS.422.1495L
+Spectral type: ~ ~ ~
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (7):
+   TIC 14255552                         Gaia DR3 65884081064415616           DANCe J04010581+2334439            
+   EPIC 211038138                       UGCS J040105.81+233443.8             2MASS J04010579+2334443            
+   Gaia DR2 65884081064415616                                                                                   
+
+Bibcodes  1850-2026 () (8):
+  2021A&A...645A..42I  2019A&A...622A.133I  2019AJ....158..122K  2017AJ....154..224R
+  2016AJ....152..113R  2016AJ....152..115S  2016ApJS..224....2H  2012MNRAS.422.1495L
+
+Measures (distance:3  PLX:2  PM:2  ):
+distance:3PLX:2PM:2
+
+Notes (0) :
+
+================================================================================
+

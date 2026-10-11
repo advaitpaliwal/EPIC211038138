@@ -1,0 +1,1 @@
+VizieR via astroquery.vizier: find_catalogs keywords + query_region(60.27416 23.57896, 30 arcsec) on each catalogue; see ../scripts/viz_targeted.py

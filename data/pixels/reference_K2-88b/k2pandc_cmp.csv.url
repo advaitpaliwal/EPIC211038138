@@ -1,0 +1,1 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select+pl_name,epic_hostname,k2_campaigns,pl_orbper,pl_tranmid,pl_trandep,pl_trandur,sy_kepmag,disp_refname+from+k2pandc+where+pl_name+in+('K2-88+b','K2-91+b')

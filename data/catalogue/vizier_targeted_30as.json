@@ -1,0 +1,136 @@
+{
+ "IV/34": {
+  "desc": "K2 Ecliptic Plane Input Catalog (EPIC) (Huber+, 2017)",
+  "tables": {
+   "IV/34/epic": [
+    {
+     "_r": "0.119",
+     "ID": "211038138",
+     "RAJ2000": "60.274138",
+     "DEJ2000": "23.578974",
+     "HIP": "--",
+     "TYC": "",
+     "UCAC4": "",
+     "2MASS": "04010579+2334443",
+     "SDSS": "",
+     "OType": "STAR",
+     "Kpflag": "JHK",
+     "Sflag": "col",
+     "pmRA": "--",
+     "e_pmRA": "--"
+    }
+   ]
+  }
+ },
+ "J/A+A/579/A19": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/A+A/594/A100": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/151/68": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/152/47": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/154/207": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/154/224": {
+  "desc": "",
+  "tables": {
+   "J/AJ/154/224/table2": [
+    {
+     "_r": "0.15",
+     "recno": "461",
+     "ID": "Pleiades",
+     "EPIC": "211038138",
+     "RAJ2000": "04 01 05.79",
+     "DEJ2000": "+23 34 44.3",
+     "Gmag": "15.94",
+     "Ksmag": "12.33",
+     "pmRA": "26.8",
+     "e_pmRA": "2.08",
+     "pmDE": "-44.97",
+     "e_pmDE": "2.08",
+     "plx": "7.3",
+     "e_plx": "1.0"
+    }
+   ]
+  }
+ },
+ "J/AJ/155/136": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/155/21": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/158/161": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/159/154": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/160/108": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/161/82": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/163/244": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/165/68": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/166/28": {
+  "desc": "Validation of 69 exoplanets using ExoMiner V1.2 (Valizadegan+, 2023)",
+  "tables": {}
+ },
+ "J/AJ/167/240": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/AJ/170/287": {
+  "desc": "2min TESS data vetting with Exominer++ (Valizadegan+, 2025)",
+  "tables": {}
+ },
+ "J/ApJS/222/14": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/ApJS/226/7": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/ApJS/244/11": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/MNRAS/456/2260": {
+  "desc": "K2 Variability Catalogue II (Armstrong+, 2016)",
+  "tables": {}
+ },
+ "J/MNRAS/461/3399": {
+  "desc": "",
+  "tables": {}
+ },
+ "J/PASP/127/1063": {
+  "desc": "",
+  "tables": {}
+ }
+}
