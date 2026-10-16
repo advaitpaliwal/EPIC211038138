@@ -13,10 +13,25 @@ A dip in brightness of about 0.2% repeats every 9.92 days in K2 Campaign 4 (2015
 | Radius | 1.43 ± 0.13 R⊕ (for R★ = 0.321 R☉) |
 | Equilibrium temperature / insolation | 366 ± 20 K / 3.0 (+0.7/−0.6) S⊕ |
 | Data | K2 C4 (2015 February–April), 30-minute cadence; 7 transits |
-| False-positive probability | 0.008 ± 0.003 (TRICERATOPS with MOLUSC Gaia limits, 10 runs); 0.049 without; NFPP 0 |
+| False-positive probability | 0.008 ± 0.003, range 0.0045–0.0138 (TRICERATOPS with MOLUSC Gaia limits, 10 runs, no neighbours removed); 0.049 without; NFPP 0 |
 | Cluster membership | Catalogues disagree: Pleiades member in ZEIT V (94%), Rebull et al. 2016, Ilin et al. 2021 (0.91) and DANCe (0.82); Pk = 0 in Liu et al. 2025; the parallax places it about 15 pc in front of the 135 pc cluster distance adopted by ZEIT V |
 
-Status: **planet candidate**. Not a TOI, CTOI or K2 candidate in the NASA Exoplanet Archive or ExoFOP as of 2026-10-11. Odd and even transits agree (0.2σ), there is no secondary eclipse (80 ± 151 ppm), and the fitted depths from EVEREST, K2SC and K2SFF agree within 1.6σ. The in-transit difference-image centroid sits 1.1″ (5.0σ) from the out-of-transit centroid; the nearest Gaia source is 36.6″ away. TESS (Sectors 43, 44, 70, 71) cannot detect the transit at T = 14.8 (expected SNR below 1.4 per sector). High-resolution imaging, precise space photometry and a radial velocity for cluster membership are the next observations.
+Status: **planet candidate**. Not a TOI, CTOI or K2 candidate in the NASA Exoplanet Archive or ExoFOP as of 2026-10-11. Odd and even transits agree (0.03σ in EVEREST at the fitted ephemeris; Revision 1), there is no secondary eclipse (83 ± 165 ppm), and the fitted depths from EVEREST, K2SC and K2SFF agree within 1.6σ. At the fitted ephemeris the in-transit difference-image centroid sits 1.18″ (2.1σ) from the out-of-transit centroid; the nearest Gaia source is 36.6″ away. TESS (Sectors 43, 44, 70, 71) cannot detect the transit at T = 14.8 (expected SNR below 1.4 per sector). High-resolution imaging, precise space photometry and a radial velocity for cluster membership are the next observations.
+
+## Revision 1 (2026-10-16)
+
+The research note was revised in response to the journal editor. The vetting and the centroid were rerun at the fitted ephemeris (P = 9.9161806 d, T0 = BKJD 2267.97937, T14 = 1.879 h); version 1.0 used the search ephemeris. The corrected numbers are:
+
+- **Centroid offset:** 1.18″ (0.30 px), 2.1σ (was 1.09″, 5.0σ), from 16 in-transit cadences (`revision1/out/diff_c04_fitephem.json`).
+- **Per-transit χ² (EVEREST):** 2.8/6 (was 4.2/6).
+- **Odd/even:** EVEREST 0.03σ (was 0.2σ), K2SC 0.6σ (was 0.7σ), K2SFF 1.0σ (was 2.5σ).
+- **Phase 0.5:** 83 ± 165 ppm (was 80 ± 151); largest other phase feature 2.8σ (was 2.7σ) (`revision1/out/vetfit_{everest,k2sc,k2sff}.json`).
+- **False-positive probability:** FPP = 0.0084 ± 0.0027 (range 0.0045–0.0138), NFPP = 0, unchanged. No neighbours were removed: the two Gaia sources in TRICERATOPS's 40″ field contribute negligible flux and get zero probability. A planet orbiting an unresolved bound companion is 94% of the FPP. No high-resolution imaging exists (ExoFOP rechecked 2026-10-15), so no validation is claimed.
+- **MOLUSC:** Gaia RUWE and contrast tests only (no imaging); 200,000 companions generated, 61.5% kept.
+- **Star:** Kp = 15.36 (EPIC).
+- **Figure 1** now has three panels: folded, unfolded Campaign 4 with the trend, and four single transits (`revision1/figure1_combined_EPIC211038138.png`).
+
+Every change, with its source, is listed in [`revision1/CHANGES.md`](revision1/CHANGES.md). The revised note text is with the journal and is not included here.
 
 ## Contents
 
